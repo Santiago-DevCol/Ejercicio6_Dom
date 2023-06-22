@@ -1,0 +1,41 @@
+.container {
+    margin-bottom: 20px;
+  }
+  h1{
+    text-align: center;
+  }
+  label {
+    display: inline-block;
+    width: 100px;
+  }
+  
+  input {
+    width: 50px;
+  }
+
+.card{
+  margin-top: 4px;
+}
+.card img{
+  margin-left:45%;
+  width: 70px;
+  margin-top: 10px;
+}
+.card .vendedor{
+  width: 250px;
+  height: 180px;
+  margin-left: 41%;
+}
+
+.card-body{
+  text-align: center;
+}
+
+.btn-primary{
+  margin-top: 5px;
+}
+
+#resultado{
+  text-align: center;
+  padding-top: 4px;
+}
